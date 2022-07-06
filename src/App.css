@@ -1,0 +1,73 @@
+.main {
+  margin: 0 auto;
+
+  width: 450px;
+  margin-top: 100px;
+}
+.back {
+}
+.header {
+  color: white;
+  background-color: rgb(9, 128, 147);
+  width: 100%;
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+}
+.titlee {
+  margin-left: 30px;
+}
+.count {
+  width: 45px;
+  height: 25px;
+  background-color: rgb(5, 90, 81);
+  margin-top: 25px;
+  margin-right: 30px;
+  border-radius: 20px;
+  text-align: center;
+  align-items: center;
+}
+.mainBody {
+  margin-top: 20px;
+  padding: 30px;
+  background-color: white;
+  border: 1px solid gray;
+}
+.submit-btn {
+  background-color: rgb(9, 128, 147);
+  color: white;
+  border: none;
+  border-radius: 20px;
+  width: 100px;
+  height: 30px;
+  margin-top: 20px;
+  margin-left: 40%;
+}
+.input-text {
+  border-radius: 20px;
+  border: 1px solid rgb(216, 216, 216);
+  width: 100%;
+  height: 30px;
+}
+.img {
+  width: 20px;
+  margin: 10px;
+}
+.task-suka {
+  display: flex;
+  justify-content: space-between;
+  height: 40px;
+}
+.inputfield {
+  margin: 10px;
+}
+.input-edit {
+  margin-left: 25px;
+  margin-top: -20px;
+}
+.checkedtask {
+  background-color: aqua;
+}
+.underline {
+  border: 0.5px solid rgb(211, 209, 209);
+}
